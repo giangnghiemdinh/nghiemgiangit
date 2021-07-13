@@ -14,6 +14,7 @@
 
 <img src="https://raw.githubusercontent.com/trungquandev/trungquandev/main/images/trungquandev-gif-coding.gif" alt="funny-gif-trungquandev" width="40%">
 
+<!--
 <details open="true">
   <summary>:memo: Github Stats </summary>
   <br />
@@ -23,10 +24,9 @@
   <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
   <br />
 
-  <!-- [<img align="right" src="https://img.shields.io/badge/Signature-trungquandev.com-brightgreen" alt="trungquandev-signature" style="margin-top: 1.5rem;">](https://trungquandev.com) -->
+ [<img align="right" src="https://img.shields.io/badge/Signature-trungquandev.com-brightgreen" alt="trungquandev-signature" style="margin-top: 1.5rem;">](https://trungquandev.com)
 </details>
 
-<!--
 **nghiemgiangit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
